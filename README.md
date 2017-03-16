@@ -57,11 +57,11 @@ e f
 ```
 τότε θα είχαμε το γράφο:
 
-<img src="example_graph_2.png" width="300">
+<img src="example_graph_2.png" width="600">
 
 από τον οποίο θα καταλήγαμε στο τουρνουά:
 
-<img src="example_graph_2_solved.png" width="300>"
+<img src="example_graph_2_solved.png" width="300>
 
 Σκοπός της εργασίας είναι ακριβώς η κατασκευή προγράμματος που θα
 προγραμματίζει τη διεξαγωγή ενός τουρνουά όπως περιγράψαμε.
