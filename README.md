@@ -127,6 +127,12 @@ python plan_matches.py graph_file
 * Το αρχείο που αντιστοιχεί στο παραπάνω παράδειγμα είναι το
   [example_graph_2.txt](example_graph_2.txt).
 
+* Αν χρησιμοποιήσουμε το αρχείο
+  [example_graph_3.txt](example_graph_3.txt), τότε ως λύση θα πάρουμε
+  τα περιεχόμενα του αρχείου
+  [example_graph_3_solved.txt](example_graph_3_solved.txt). 
+
+
 Καλή Επιτυχία.
 
 # Περισσότερες Πληροφορίες
