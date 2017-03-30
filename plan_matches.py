@@ -14,7 +14,7 @@ with open(input_file) as graph_input:
         #storing each match player in two lists
         part1[k] = nodes[0]
         part2[k] = nodes[1]
-        k++
+        k = k +1
 
 for i in range(k)
     #swap values, if for example a match is c,b this should turn into b,c
